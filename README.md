@@ -1,2 +1,3 @@
-# alg-repo
-Repository for Arch Linux GUI
+# TOS Repository
+
+Repo list
